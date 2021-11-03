@@ -4,7 +4,7 @@
 >This project was used as practice for how to set up the backend of an ecommerce site using Express.js API and Sequlize with a MySQL database.
 
 **Video Walkthrough**
->https://www.youtube.com/watch?v=3OPE5lk_YPQ
+>https://www.youtube.com/watch?v=Du96MJMxmcA
 
 **Table of Contents** 
 >[Installation](#Installation)
